@@ -1,0 +1,13 @@
+../Core/Src/main.c:68:6:sendChar	24	static
+../Core/Src/main.c:76:6:sendString	16	static
+../Core/Src/main.c:83:6:readChar	24	static
+../Core/Src/main.c:101:5:main	56	static
+../Core/Src/main.c:198:6:SystemClock_Config	96	static
+../Core/Src/main.c:248:13:MX_USART1_UART_Init	8	static
+../Core/Src/main.c:283:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:318:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:365:6:alertWaterLevel	16	static
+../Core/Src/main.c:384:6:alertDrain	16	static
+../Core/Src/main.c:411:6:StartDefaultTask	16	static
+../Core/Src/main.c:430:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/main.c:447:6:Error_Handler	4	static,ignoring_inline_asm
