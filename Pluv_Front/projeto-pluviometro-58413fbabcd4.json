@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "projeto-pluviometro",
+  "private_key_id": "58413fbabcd4800f5cce9bc8fdec0a62a622999a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDLEqHUu3f3XSpp\nUfkNsFbd0hoK8qTKzb55M/JglvKFx3vjlT4NZBH8e7rC1UqRfbMIpkcOGhARF2xr\nuSDY1SE6O1MWAwszLxzo7ezV0LpMqnO2hkrL6Q0rXP0p0UF569qyaOLGTAoYyjNG\nPlpjTdcMC824rhOmTq4usLcpbHSQUPNoTDfUf2zvoOCr06lwIj6Mw1hoZb7r/VKi\nV0gbAy74oImbOMrf7Wqu2Iwc2J3O8pcxDnvErNv3m4ZBvi+G5m2DMx6o3WncSggw\nCX9xiny+CJV8bWzR/4ixM0nqeA0DBqQO4Zf6eCEEpeVofnBhOoHJJboszrXd3NcH\n//spDBiHAgMBAAECggEADS+jCXy4z/uhNuCHQv/JzDKJ1V8nGzIb5aPdX689hTlM\nTp1Qv67ZSiNAn8kYw/S9DNk7MOu5UlrKg/4r51iDhVP306yT7Blpj6hvYfzhM/w3\nckkrDy2NWNz7ZV08mq2ZcE9GNmkWmMB8btm6pcsWpSYZEB5hkUF3pvl7kzmDIiG5\nv6o1G7Pje2n0mJP5Q4aqajen8y2d6wIeuV3xRv9+baeW/kz/2h/YRuyhv5tXMs3R\nUG1pbMzXZqrBYk9vm9MXhdH6+e5KBVvpPzbmqWCPDSM9tWH/W3yWez/ihchcUPcW\nVG/fpIV09Eh6qKWgWsuIqiU01da2dNR9bT7Vj9KcZQKBgQD80YxE9QcCCsQyt7f7\n6gRXV8hESqQgKcXJMp+Fz42ob1MGtVca6alLvILQBphOid/yCL83Xv7Bf6k5Ejkf\nPidJBxU/PCiplqMqRqjhQ3lvtC4O5G6iv5UR3XheKOJULe6MTkjqzOSXa5tOHxjX\nb+px+Yz1JP9lDxvnp63IzcuPvQKBgQDNoNQs3r+ptdKaP/4XAo6FfPwmvrQb6KAL\n43sU3UtjwaOeJ+eiPRby1cP+L4MQ6G3tTTPf1M4Qod3nsjFMmz2SlAdyPoTtxbN2\npNGw9mCscaNAFO4NFpmhKFmCeHhzD2ws1gfAnX5F92b/DPtMk9W0Nd9GfJKRp5/c\n9DPUK6g7kwKBgQCPuHANI14Agy5VxqsIwlgFbxmh+OykfBq77dNRtlPJVL/WKHCE\nFCDxtRCIQbeDrk1owiAx0gbw6SnCD+H5KNQcZ7JkaEaVYdUPy2tl4329SqiEPsfG\nLTMJHOW4YXWIdTQO/tHk6OVqTvnSx0rP7gdRE5RWJ9ooERbD8kaQyKzX4QKBgCAk\nN4Yb+1GHvjemMQ1ftO9grflQbc6++eVh1WdZf+ND7VNXYXmWmvOyPkSJIK+P5T7m\nhmlCVkN7Sbhhvhr/WQyEXvWYmCaidH7jHHPQzyOlT6NAokUhdzodmIAwXIN/saUA\nf424EHjXRx4u5Uj/ArR8hz35Ut+5l99tvHw5pr5JAoGAYtO3IgAOXmIoCpefD9wr\nRKcBcASE9pwMdfRa4qrNJNpie3RCT/dTM++xEPYjmxxLdjMwWOCAARYpNtGll+RL\n664HZEY5Ib9/xwJXxeL0zzaQhan1kKoukNE/Fp2c3VRiV0ONyTLRTO9FKvwgbkTj\nqi8f0uZdreOuzjkMM5LcUqE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-d8vxe@projeto-pluviometro.iam.gserviceaccount.com",
+  "client_id": "111969189852426180999",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-d8vxe%40projeto-pluviometro.iam.gserviceaccount.com"
+}
